@@ -1,16 +1,24 @@
-### Hi there 👋
+![Header]()
 
-<!--
-**timlefkowitz/timlefkowitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2 align="center">Hello there! </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🔭 I’m currently studying Front-end Web Development and 3D Computer Graphics Software 
+* 🌱 I’m currently learning Javascript, 
+* 💬 Ask me about projects I am working on or my cameras
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
+* 😄 Pronouns: he/him
+* ⚡ Fun fact: 
+
+
+---
+
+  
+![ALLY'S github stats](https://github-readme-stats.vercel.app/api?username=timlefkowitz&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=timlefkowitz&theme=synthwave&layout=compact)](https://github.com/timlefkowitz/github-readme-stats)
+
+
