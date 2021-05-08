@@ -4,12 +4,12 @@
 
 <h2 align="center">Hello there! </h2>
 
-* 🔭 I’m currently studying Front-end Web Development and 3D Computer Graphics Software 
-* 🌱 I’m currently learning Javascript, Java, Spring, React, Python
+* 🔭 I’m currently studying Front-end Web Development and Java
+* 🌱 I’m currently learning Javascript, Java, Spring, React, Python, Blender
 * 💬 Ask me about projects I am working on or my cameras
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: 
+* ⚡ Fun fact: I lost my left eye to an airrifle playing original halo at a valentines day party
 
 
 ---
