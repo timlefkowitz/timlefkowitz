@@ -15,7 +15,7 @@
 ---
 
   
-![ALLY'S github stats](https://github-readme-stats.vercel.app/api?username=timlefkowitz&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
+![github stats](https://github-readme-stats.vercel.app/api?username=timlefkowitz&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
 
 
 
