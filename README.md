@@ -15,7 +15,7 @@
 
 
 These images are small on purpose, 
-I'm wanting to turn this into a reality 👾<👾<👾<👾<👾<👾<👾<👾<
+I'm wanting to turn this into a reality 👾<👾<👾<👾<👾<👾
 ![Header](https://live.staticflickr.com/65535/51267898330_93ba41b348.jpg)
 ![Header](https://live.staticflickr.com/65535/51267561234_f6dd1ee5a6.jpg)
 ![header](https://live.staticflickr.com/65535/51226877755_baa485bc82_b.jpg)
