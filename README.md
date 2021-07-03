@@ -9,8 +9,7 @@
 * 💬 Ask me about projects I am working on or my cameras
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: I lost my left eye to an AirRifle playing original halo at a valentines day party. This became a gift to appericate light!
-
+* ⚡ Fun fact: Seeds have to be at a certain humidity || dryness in order for them to be considered good quality
 
 ---
 
