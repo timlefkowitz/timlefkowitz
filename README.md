@@ -14,7 +14,7 @@
 ---
 
 
-Help-Tank was designed as a Veteran Help Tank, Where people in need can open the app and see resources based on their location. This app is still currently under development. 
+Help-Tank was designed as a Veteran Help Tank, People in need can open the app and see resources based on their location. This app is still currently under development. 
 ![Header](https://live.staticflickr.com/65535/51260776675_25594116e1.jpg)
 ![Header] ()
 
@@ -25,10 +25,12 @@ I'm wanting to turn this into a reality 👾<👾<👾<👾<👾<👾
 ![Header](https://live.staticflickr.com/65535/51267561234_f6dd1ee5a6.jpg)
 ![header](https://live.staticflickr.com/65535/51226877755_baa485bc82_b.jpg)
 ![Header](https://live.staticflickr.com/65535/51267863580_a297628550.jpg)
-my 3d projects are my Babies Haha, Ill be workin on 3D stuff till im old. 3dforever X0X0
+
+
+Ill be workin on 3D stuff till im old. 3dforever X0X0
 I have this vision of making my own game engine. HAHA 
 
-we can start by rendering a obj file to a viewport, I'm currently in a java class. Java uses something called a JFrame.
+we can start by rendering a obj file to a viewport.
 
 contact for info.
 
