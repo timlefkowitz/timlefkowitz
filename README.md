@@ -6,12 +6,17 @@
 
 * 🔭 I’m currently studying Front-end Web Development and Java
 * 🌱 I’m currently learning Javascript, Java, Spring, React, Python, Blender
-* 💬 Ask me about projects I am working on or my cameras
+* 💬 Ask me about projects I am working on
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: Seeds have to be at a certain humidity || dryness in order for them to be considered good quality
 
 ---
+
+(https://live.staticflickr.com/65535/51267898330_93ba41b348.jpg)
+(https://live.staticflickr.com/65535/51267561234_f6dd1ee5a6.jpg)
+(https://live.staticflickr.com/65535/51266106377_010246b356.jpg)
+(https://live.staticflickr.com/65535/51267863580_a297628550.jpg)
 
   
 ![github stats](https://github-readme-stats.vercel.app/api?username=timlefkowitz&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
