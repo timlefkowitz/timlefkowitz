@@ -15,8 +15,10 @@
 
 
 Help-Tank was designed as a Veteran Help Tank, People in need can open the app and see resources based on their location. This app is still currently under development. 
+
+[PARAGRAPH]
+
 ![Header](https://live.staticflickr.com/65535/51260776675_25594116e1.jpg)
-![Header] ()
 
 
 These images are small on purpose, 
