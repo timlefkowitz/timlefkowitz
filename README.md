@@ -13,13 +13,19 @@
 
 ---
 
+
+These images are small on purpose, but I'm wanting to turn this into a reality. Help if you want! 
 ![Header](https://live.staticflickr.com/65535/51267898330_93ba41b348.jpg)
 ![Header](https://live.staticflickr.com/65535/51267561234_f6dd1ee5a6.jpg)
-![Header](https://live.staticflickr.com/65535/51266106377_010246b356.jpg)
-<p></p>
-![Header](https://live.staticflickr.com/65535/51267863580_a297628550.jpg)
+![header](https://live.staticflickr.com/65535/51226877755_baa485bc82_b.jpg)
 
-  
+
+![Header](https://live.staticflickr.com/65535/51267863580_a297628550.jpg)
+![Image of ColumnNth]
+(https://live.staticflickr.com/65535/51226877755_baa485bc82_b.jpg)
+![Image of MyWorks]
+(https://live.staticflickr.com/65535/51226877755_baa485bc82_b.jpg)
+
 ![github stats](https://github-readme-stats.vercel.app/api?username=timlefkowitz&show_icons=true&theme=synthwave&count_private=true&hide=stars,issues)
 
 
