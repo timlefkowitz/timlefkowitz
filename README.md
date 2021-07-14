@@ -4,12 +4,12 @@
 
 <h2 align="center">Hello there! 👾</h2>
 
-* 🔭 I’m currently studying Front-end Web Development and Java
-* 🌱 I’m currently learning Javascript, Java, Spring, React, Python, Blender
-* 💬 Ask me about projects I am working on
+* 🔭 I'm currently studying and loving, Java
+* 🌱 I'm always eager to learn, learning is winning! 
+* 💬 In my freetime I love to work on my own projects, modeling game assests in 3d. Ask about them! 
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: Seeds have to be at a certain humidity || dryness in order for them to be considered good quality
+* ⚡ Fun fact: The sun is not burning but is hydrogen, It is a creating gas and light.
 
 ---
 
