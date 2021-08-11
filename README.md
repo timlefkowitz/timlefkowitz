@@ -6,10 +6,11 @@
 
 * 🔭 I'm currently studying and loving, Java
 * 🌱 I'm always eager to learn, learning is winning! 
-* 💬 In my freetime I love to work on my own projects, modeling game assests in 3d. Ask about them! 
-* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz-112b434b/ "Linkedin")
+* 💬 In my freetime I love to work on my own projects, I love modeling enviorments like buildings and landscapes. Ask about them! 
+* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz "Linkedin")
 * 😄 Pronouns: he/him
-* ⚡ Fun fact: The sun is not burning but is hydrogen, It is a creating gas and light.
+* ⚡ Fun fact: The sun is not burning but is hydrogen, It is creating gas and light.
+*   visit me: [photon labs](https://photonlabs.xyz/Tim "photonlabs")
 
 ---
 
