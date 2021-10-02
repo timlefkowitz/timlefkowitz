@@ -10,7 +10,6 @@
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz "Linkedin")
 * 😄 Pronouns: he/him
 * ⚡ Fun fact: The sun is not burning but is hydrogen, It is creating gas and light.
-*   visit me: [photon labs](https://photonlabs.xyz/Tim "photonlabs")
 
 ---
 
