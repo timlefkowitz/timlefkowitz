@@ -6,7 +6,7 @@
 
 * 🔭 live to code > code to live 
 * 🌱 I'm always eager to learn
-* 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz "Linkedin")
+* 📫 How to reach me: timothy.lefkowitz@gmail.com
 
 
 ---
