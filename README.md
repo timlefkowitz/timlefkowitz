@@ -6,10 +6,8 @@
 
 * 🔭 live to code > code to live 
 * 🌱 I'm always eager to learn
-* 💬 In my freetime I love to work on my own projects, I love modeling enviorments like buildings and landscapes. Ask about them 
 * 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/timothy-lefkowitz "Linkedin")
-* 😄 Pronouns: he/him
-* ⚡ Fun fact: The sun is not burning but is hydrogen, It is creating gas and light.
+
 
 ---
 
